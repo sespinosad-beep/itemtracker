@@ -1,0 +1,6 @@
+{
+  "name": "Rastreador de Artículos",
+  "description": "Una aplicación inteligente para reportar, rastrear y localizar artículos extraviados en la fábrica con asistencia de IA.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
